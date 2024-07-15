@@ -19,10 +19,12 @@ Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um b
    cd storeshop
 
 ## Instalar Dependências
- - flutter pub get
+```bash
+ flutter pub get
 
 ## Executar o Aplicativo
- - flutter run
+```bash
+ flutter run
 Isso iniciará o aplicativo Flutter no seu emulador ou dispositivo conectado.
 
 ### Funcionalidades
@@ -41,11 +43,13 @@ Isso iniciará o aplicativo Flutter no seu emulador ou dispositivo conectado.
 
   ### Instalar Dependências
 
- - npm install
+ -```bash
+ npm install
  - Configurar Variáveis de Ambiente
 
  ## Executar o Servidor
- - npm run start
+```bash
+npm run start
 
 ### Funcionalidades
  - Autenticação: JWT é utilizado para autenticar usuários.
