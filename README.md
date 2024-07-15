@@ -19,11 +19,11 @@ Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um b
    cd storeshop
 
 ## Instalar Dependências
-```bash
+
  flutter pub get
 
 ## Executar o Aplicativo
-```bash
+
  flutter run
 Isso iniciará o aplicativo Flutter no seu emulador ou dispositivo conectado.
 
@@ -43,12 +43,11 @@ Isso iniciará o aplicativo Flutter no seu emulador ou dispositivo conectado.
 
   ### Instalar Dependências
 
- -```bash
  npm install
  - Configurar Variáveis de Ambiente
 
  ## Executar o Servidor
-```bash
+
 npm run start
 
 ### Funcionalidades
