@@ -1,4 +1,4 @@
-# storeshop
+
 # Minha Aplicação
 
 Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um backend em NestJS para gerenciar uma loja virtual simples.
@@ -26,9 +26,9 @@ Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um b
 Isso iniciará o aplicativo Flutter no seu emulador ou dispositivo conectado.
 
 ### Funcionalidades
-Login: Permite que o usuário faça login utilizando um email e senha.
-Listagem de Produtos: Exibe uma lista de produtos disponíveis na loja.
-Carrinho de Compras: Permite adicionar produtos ao carrinho e finalizar a compra.
+ - Login: Permite que o usuário faça login utilizando um email e senha.
+ - Listagem de Produtos: Exibe uma lista de produtos disponíveis na loja.
+ - Carrinho de Compras: Permite adicionar produtos ao carrinho e finalizar a compra.
 
 
 ## Backend em NestJS
@@ -48,6 +48,6 @@ Carrinho de Compras: Permite adicionar produtos ao carrinho e finalizar a compra
  - npm run start
 
 ### Funcionalidades
-Autenticação: JWT é utilizado para autenticar usuários.
-Endpoints RESTful: Implementa endpoints para listar produtos, gerenciar carrinho de compras, etc.
-Persistência: Utiliza uma base de dados (se configurada) ou armazenamento em memória para manter os dados.
+ - Autenticação: JWT é utilizado para autenticar usuários.
+ - Endpoints RESTful: Implementa endpoints para listar produtos, gerenciar carrinho de compras, etc.
+ - Persistência: Utiliza uma base de dados (se configurada) ou armazenamento em memória para manter os dados.
