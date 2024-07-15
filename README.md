@@ -15,5 +15,5 @@ Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um b
 1. **Clonar o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/ProgAttack/storeshop.git
+   cd storeshop
