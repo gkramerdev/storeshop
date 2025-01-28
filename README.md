@@ -15,7 +15,7 @@ Esta é uma aplicação de exemplo que consiste em um frontend em Flutter e um b
 1. **Clonar o Repositó rio**
 
    ```bash
-   git clone https://github.com/ProgAttack/storeshop.git
+   git clone https://github.com/gkramerdev/storeshop.git
    cd storeshop
 
 ## Instalar Dependências
