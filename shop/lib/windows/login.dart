@@ -19,7 +19,7 @@ class _LoginScreenState extends State<LoginScreen> {
     String email = emailController.text.trim();
     String password = passwordController.text.trim();
 
-    Uri url = Uri.parse('http://10.0.0.163:3000/auth/login'); //IP LOCAL
+    Uri url = Uri.parse('http://localhost:3000/auth/login'); //IP LOCAL
 
     try {
       // Enviar as credenciais para o backend
